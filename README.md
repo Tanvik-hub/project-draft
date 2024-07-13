@@ -8,3 +8,4 @@ Image-Search-App
 QR-code-generator
 CineView
 Weather-using-Java
+Quickeats
