@@ -4,12 +4,12 @@
 
 - weather-app
 - Text-To-Speech-Converter
-Image-Search-App
-QR-code-generator
-CineView
-Weather-using-Java
-Quickeats
-Tic-Tac-Toe
+- Image-Search-App
+- QR-code-generator
+- CineView
+- Weather-using-Java
+- Quickeats
+- Tic-Tac-Toe
 
 
 
